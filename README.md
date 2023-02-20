@@ -1,6 +1,6 @@
-# Algorithmic-Gambling
-  This is an html, css and javascript code for algorithmic betting.
-  The inputs include:
+# Algorithmic Gambling
+This is an html, css and javascript code for algorithmic betting.  
+The inputs include:
 ```
 1. The target profit
 2. The target odd
