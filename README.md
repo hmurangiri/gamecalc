@@ -6,7 +6,7 @@ The inputs include:
 2. The target odd
 3. The number of lines to be generated
 ```
-| henry | Test | Column 3 |
+| 1 | 2 | 3 |
 |----------|----------|----------|
-| Row 1, Column 1 | Row 1, Column 2 | - [x] |
-| Row 2, Column 1 | Row 2, Column 2 | - [ ] |
+| 1 | Row 1, Column 2 | - [x] |
+| 2 | Row 2, Column 2 | - [ ] |
